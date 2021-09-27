@@ -1,5 +1,6 @@
 # aws-mfa-script
 - modified from [asagage/aws-mfa-script](https://github.com/asagage/aws-mfa-script)
+
 Script to fetch an MFA token for you to use temporary aws access credentials
 
 I got this somewhere on github and made some changes to it to require 
